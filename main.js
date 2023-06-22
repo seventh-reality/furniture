@@ -1,4 +1,4 @@
-import * as THREE from "threemodule.js";
+import * as THREE from "../threemodule.js";
 
 document.addEventListener('DOMContentLoaded' , () => {
    const initialize = async() => {
